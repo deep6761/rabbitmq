@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 
 // SEND
-public class received {
+public class SEND {
 
     private final static String QUEUE_NAME = "hello";
 
